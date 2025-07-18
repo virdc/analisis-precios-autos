@@ -37,21 +37,3 @@ plt.xlabel('Marca')
 plt.tight_layout()
 plt.show()
 
-
-""" Marcas con cajas altas: tienen autos más caros.
-
-Cajas más alargadas: más variedad de precios dentro de la marca.
-
-Muchas marcas con outliers arriba: significa que hay modelos mucho más caros que el promedio.
-
-	El 50% de los datos, entre el cuartil 1 (Q1, 25%) y el cuartil 3 (Q3, 75%).
- 
- 	Mediana (Q2, 50%) del precio para esa marca.
-  
-    "Bigotes" (whiskers)	Valores mínimos y máximos que no son valores atípicos.
-    
-    Puntos fuera de los bigotes	Outliers: precios que están lejos de la mayoría.
-    
-    
-
-"""

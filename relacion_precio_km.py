@@ -16,10 +16,3 @@ plt.title('Relación precio vs kilometraje')
 plt.xlabel('Kilometraje')
 plt.ylabel('Precio')
 plt.show()
-
-"""" Conclusión visual:
-Relación negativa: A más kilómetros → menor precio.
-
-Alta dispersión: El precio no depende solo del kilometraje, hay otras variables que afectan (marca, año, tipo de auto, estado general).
-
-Necesidad de limpiar o validar los datos con precios 0."""
