@@ -9,3 +9,11 @@
 - Matplotlib
 - Seaborn
 - Numpy
+
+## Install
+Ejecutar este comando 
+```bash
+pip install -r requirements.txt
+```
+
+## Ejecución del análisis
