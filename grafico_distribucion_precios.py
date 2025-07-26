@@ -35,11 +35,3 @@ plt.show()
 
 
 
-
-"""Mayor cantidad de autos baratos o de precio medio-bajo.
-
-Presencia de datos anómalos (precio cero).
-
-El mercado está dominado por vehículos accesibles.
-
-Los autos caros son pocos, pero hay modelos que superan los 10 millones."""
